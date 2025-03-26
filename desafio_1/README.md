@@ -17,13 +17,13 @@
 - Um produto ou mais compoem o pedido
 - O pedido pode ser cancelado
 
-## Narrativa - estoque
+## Narrativa - Estoque
 - Controla a localização dos produtos
 - Controla a quantidade em estoque dos produtos
 
 
 #
-# Objetivo do sesafio
+# Objetivo do desafio
 Refine o modelo apresentado acrescentando os seguintes pontos:
 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
