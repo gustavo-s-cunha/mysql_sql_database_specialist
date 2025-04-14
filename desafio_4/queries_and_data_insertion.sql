@@ -161,3 +161,4 @@ JOIN responsavel r ON pg.Responsavel_idResponsavel = r.idResponsavel
 JOIN ordem_servico os
   ON os.Pedido_has_Responsavel_Pedido_idPedido = p.idPedido 
     AND os.Pedido_has_Responsavel_Responsavel_idResponsavel = r.idResponsavel;
+ORDER BY os.idOrdemServico DESC;
